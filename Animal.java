@@ -13,6 +13,6 @@ public class Animal {
     }
 
     void Swim (int distanceS) {
-        System.out.println ("Животное пробежало " + run + " метров");
+        System.out.println ("Животное проплыло " + swim + " метров");
     }
 }
